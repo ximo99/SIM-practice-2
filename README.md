@@ -1,6 +1,6 @@
 ﻿# Practice 2: the 'Night of the Fire' 2D. Simulation.
 
-Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. March 2022. Practice 2. Rating 7. The aim is to simulate a fireworks display to recreate (partially and only in 2 dimensions) the Night of the Fallas of Valencia.
+Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. March 2022. Practice 2. Rating 7. The aim is to simulate a fireworks display to recreate (partially and only in 2 dimensions) the Night of Fire of the Fallas of Valencia.
 
 🎞️ Video with the result: [https://youtu.be/CvVU-R5UwSs](https://www.youtube.com/watch?v=cYc7BNBpzL0&list=PLSuDG4mVIcvdQo-eBHfHp6HFdvB0oJLz5&index=19)
 
